@@ -1,0 +1,11 @@
+# Mengabaikan file cache python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mengabaikan file sistem operasi
+.DS_Store
+Thumbs.db
+
+# Mengabaikan file konfigurasi editor/VS Code
+.vscode/
